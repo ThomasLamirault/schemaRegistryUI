@@ -1,0 +1,7 @@
+registry:
+  address: 192.168.99.100
+  port: 8081
+
+app:
+  address: localhost
+  port: 8080
